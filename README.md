@@ -1,0 +1,2 @@
+# coin
+Crypto currency stuff
